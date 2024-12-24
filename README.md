@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank-trivedi-dev&show_icons=true&locale=en" alt="shashank-trivedi-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-trivedi-dev&" alt="shashank-trivedi-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-trivedi-dev&" alt="shashank-trivedi-devv" /></p>
