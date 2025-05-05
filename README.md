@@ -8,7 +8,7 @@
 - 🔭 Exploring the art of React development  
 - 📄 [View My Resume](https://shashanktrivedi.com/Resume/)  
 - 👨‍💻 [My Projects Portfolio](https://shashanktrivedi.com/project-portfolio)  
-- 🌐 [Online Presence](https://vlinktree.com/shashank-trivedi-dev/)  
+- 🌐 [Online Presence](http://lynkngo.com/shashank-trivedi-dev)  
 - 📫 [Drop a Mail](mailto:shashanktrivedidev@gmail.com)
 
 ---
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/shashank-trivedi-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/shashanktrivedicom" target="_blank">
+  <a href="https://www.instagram.com/shashanktrivedidev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
