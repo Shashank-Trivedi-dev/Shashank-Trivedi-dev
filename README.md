@@ -90,3 +90,10 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
   </a>
 </p>
+
+<hr>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank-trivedi-dev&show_icons=true&locale=en&layout=compact" alt="shashank-trivedi-dev" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=shashank-trivedi-dev&show_icons=true&locale=en" alt="shashank-trivedi-dev" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-trivedi-dev" alt="shashank-trivedi-devv" /></p>
